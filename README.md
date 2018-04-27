@@ -5,7 +5,7 @@
 ## Deţine o interfaţă a utilizatorului foarte coezivă.
 
 ###  De ce ar trebui să utilizați această aplicație:
-  - Simplu şi eficient, nu mai trebuie să intraţi in contact direct cu staff-ul clinicii, prin intermediul unui apel telefonic ori a unei vizite la clinica, pentru a programa o vizită medicală.
+  - Simplu şi eficient, pentru a programa o vizită medicală nu mai este necesară luarea unui contact direct cu staff-ul clinicii, prin intermediul unui apel telefonic ori a unei vizite la clinica.
   - se poate programa o vizită medicală, în cadrul programului prestabilit de clinică, indiferent de oră.
   - nu consumă prea mult timp, o programare se poate efectua în cateva secunde.
   - interfaţă uşor de utilizat.
